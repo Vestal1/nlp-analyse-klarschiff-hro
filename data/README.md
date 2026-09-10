@@ -7,6 +7,4 @@ Der Datensatz enthält Meldungen zu verschiedenen Problemen im Stadtgebiet, zum 
 Quelle:  
 https://www.opendata-hro.de/dataset/klarschiffhro-meldungen
 
-Lizenz: CC0 1.0
-
 Die CSV-Datei wird nicht im Repository gespeichert. Das Notebook lädt den Datensatz direkt über die offizielle Downloadadresse. Da die Daten regelmäßig aktualisiert werden, können sich die Anzahl der Meldungen und einzelne Ergebnisse später verändern.
