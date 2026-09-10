@@ -1,9 +1,7 @@
 # Datensatz
 
-Für dieses Projekt wird der Datensatz „Klarschiff.HRO-Meldungen“ der Hanse- und Universitätsstadt Rostock verwendet.
-
-Der Datensatz enthält Meldungen zu verschiedenen Problemen im Stadtgebiet, zum Beispiel zu Müll, Straßen, Gehwegen oder Grünflächen.
-
+Für dieses Projekt wird der Datensatz „Klarschiff.HRO-Meldungen“ der Hansestadt Rostock verwendet.
+Der Datensatz enthält Meldungen zu verschiedenen Problemen und Bürgeranliegen im Stadtgebiet.
 Quelle:
 https://www.opendata-hro.de/dataset/klarschiffhro-meldungen
 
