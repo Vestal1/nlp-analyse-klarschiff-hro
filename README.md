@@ -49,7 +49,15 @@ Die Themen passen grundsätzlich zu den vorhandenen Hauptkategorien. Eine genaue
 
 ## Ausführung
 
-Das Notebook kann mit Jupyter Notebook oder Google Colab geöffnet und ausgeführt werden. Die benötigten Bibliotheken stehen in der Datei `requirements.txt`.
+1. Das Repository herunterladen oder das Notebook direkt in Google Colab öffnen.
+2. Bei einer lokalen Ausführung die benötigten Bibliotheken mit  
+   pip install -r requirements.txt installieren.
+3. Die Datei notebooks/klarschiff_nlp_analyse.ipynb öffnen.
+4. Alle Codezellen der Reihe nach von oben nach unten ausführen.
+
+Der Datensatz wird automatisch über die hinterlegte CSV-Adresse eingelesen.
+Da der Datensatz regelmäßig aktualisiert wird, können sich die Ergebnisse bei
+einer späteren Ausführung verändern.
 
 ## Einschränkungen
 
